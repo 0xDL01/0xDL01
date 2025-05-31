@@ -12,7 +12,8 @@ Welcome to my official GitHub profile. I’m on a mission to become **Best** in 
 
 ## 📚 Latest Projects
 
-### 🧠 [Mythos-AI-bot](https://github.com/0xDL01/Mythos-AI-bot)
+### 🧠 [Mythos-AI-bot](https://github.com/0xDL01/Mythos-AI-bot)" private repo ask for permission"
+still in adding new modules evey week final version will be public sooon...
 > AI-powered recon assistant with voice control, OCR, and face detection.
 
 ### 📖 Hacking Book Summaries
