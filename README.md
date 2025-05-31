@@ -26,7 +26,7 @@ Welcome to my official GitHub profile. I’m on a mission to become **Best** in 
 
 ## 📽️ Vlogs, Medium, & Blogs
 
-- ✍️ [My Medium Articles](https://medium.com/@Nabharaj_Sawant)  
+- ✍️ [My Medium Articles](https://medium.com/@sawantnabharaj)  
 - 🎥 [Cyber Vlogs & Journey](https://youtube.com/@KingDemLio)  
 - 🎙️ Raw transformation: From jobless to elite hacker by 2025
 
