@@ -27,7 +27,7 @@ still in adding new modules evey week final version will be public sooon...
 
 ## 📽️ Vlogs, Medium, & Blogs
 
-- ✍️ [My Medium Articles](https://medium.com/@sawantnabharaj)  
+- ✍️ [My Medium Articles](https://medium.com/@RichiDL01)  
 - 🎥 [Cyber Vlogs & Journey](https://youtube.com/@KingDemLio)  
 - 🎙️ Raw transformation: From jobless to elite hacker by 2025
 
