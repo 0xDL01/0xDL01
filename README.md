@@ -1,196 +1,215 @@
-🧠 Nabharaj R. Sawant | AI Automation | Cybersecurity | Document Intelligence
+<div align="center">
 
-Welcome to my official GitHub profile.
+# Nabharaj R. Sawant
 
-I am an MSc Artificial Intelligence graduate based in the UK, building practical AI systems, cybersecurity tools, and business automation solutions. My work focuses on simplifying complex technology and turning it into real systems that businesses and people can use.
+### AI Automation • Cybersecurity • Document Intelligence • System Thinking
 
-I build around one clear idea:
+**MSc Artificial Intelligence | Founder of BeyondGains Ltd | Author of Bridging Minds**
 
-Understand the system. Simplify the logic. Build the tool. Execute with discipline.
+<br>
 
-⸻
+[![AI Automation](https://img.shields.io/badge/AI%20Automation-Business%20Systems-0A66C2?style=for-the-badge)](https://www.beyondgains.co.uk)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research%20%26%20Labs-111111?style=for-the-badge)](#)
+[![Document AI](https://img.shields.io/badge/Document%20AI-RAG%20%26%20Automation-2E7D32?style=for-the-badge)](#)
+[![SystemHacker01](https://img.shields.io/badge/SystemHacker01-Magazine-5E35B1?style=for-the-badge)](https://systemhacker01.com)
 
-🔥 About Me
+<br>
 
-* 🇬🇧 Based in the UK
-* 🎓 MSc in Artificial Intelligence
-* 🛡️ Focused on cybersecurity, AI automation, OSINT, and digital intelligence
-* 📄 Building AI document automation and RAG-based Q&A systems
-* 🏢 Founder of BeyondGains Ltd — AI consultancy for businesses
-* 📰 Creator of SystemHacker01 Magazine — cybersecurity, AI, systems, and hacker-mindset writing
-* 📚 Author of the Bridging Minds book series
-* 🎯 Mission: Build real AI systems, simplify technology, and grow into high-level cybersecurity and AI mastery
+> Building practical AI systems, cybersecurity knowledge, and business automation tools.
 
-⸻
+</div>
 
-🏢 BeyondGains Ltd | AI Consultancy
+---
 
-Website: www.beyondgains.co.uk
+## Professional Summary
 
-BeyondGains Ltd helps businesses become AI-ready by building affordable, practical, and scalable automation systems.
+I am an **MSc Artificial Intelligence graduate based in the UK**, focused on building practical systems across **AI automation, document intelligence, cybersecurity, and business workflow automation**.
 
-What We Build
+My work is centred around one principle:
 
-* AI document automation systems
-* AI chatbot integration
-* Business workflow automation
-* RAG-based document Q&A systems
-* Internal knowledge assistants
-* Admin dashboards and business control panels
-* AI-powered reporting and content systems
-* Custom AI automation MVPs for businesses
+> **Simplify complex technology into useful systems that people and businesses can actually use.**
 
-The goal is simple:
+I combine AI, software development, cybersecurity learning, writing, and system thinking to build products, tools, and educational content that make technology easier to understand and apply.
 
-Save time. Reduce manual work. Cut operational cost. Help businesses grow with AI.
+---
 
-⸻
+## Current Work
 
-📚 Bridging Minds Book Series
+| Area | Description |
+|---|---|
+| **BeyondGains Ltd** | AI consultancy helping businesses become AI-ready through automation, document intelligence, chatbots, and workflow systems. |
+| **SystemHacker01 Magazine** | A digital magazine focused on cybersecurity, AI systems, digital intelligence, and system-level thinking. |
+| **Bridging Minds Book Series** | Books written to simplify computer systems, technology, data, and decision-making. |
+| **AI Document Intelligence** | Building systems that allow users to upload documents, extract key information, and ask questions using AI. |
+| **Cybersecurity Research & Labs** | Studying Linux, Python, OSINT, web security, network scanning, and ethical hacking through hands-on practice. |
 
-I write the Bridging Minds series to reduce the gap between complex technology and human understanding.
+---
 
-The purpose of these books is to explain technology, data, systems, and decision-making in simple terms without losing depth.
+## BeyondGains Ltd
 
-📘 Bridging Minds: A Guide to Understanding Technology in Simple Terms
+**Website:** [www.beyondgains.co.uk](https://www.beyondgains.co.uk)
 
-Available on Amazon: View Book
+BeyondGains Ltd helps businesses use AI in a practical and affordable way.
 
-This book simplifies computer systems, technology, and digital logic for people who want to understand how modern technology works without unnecessary complexity.
+### Services and System Focus
 
-It explains technology through clear thinking, simple language, and system-level understanding.
+- AI document automation  
+- RAG-based document Q&A systems  
+- AI chatbot integration  
+- Business workflow automation  
+- Internal knowledge assistants  
+- AI-powered reporting systems  
+- Admin dashboards and control panels  
+- Custom AI automation MVPs  
 
-⸻
+The goal is to help businesses:
 
-📊 Bridging Minds: Signals Over Numbers
+> **Save time, reduce manual work, lower operational cost, and grow with AI.**
 
-Available on Amazon: View Book
+---
 
-This book focuses on data, decisions, and reality.
+## Bridging Minds Book Series
 
-It explains that data is not always truth by itself. Data is captured reality, shaped by assumptions, timing, context, and interpretation.
+The **Bridging Minds** series is written to reduce the gap between complex technology and human understanding.
 
-⸻
+| Book | Focus |
+|---|---|
+| [**Bridging Minds: A Guide to Understanding Technology in Simple Terms**](https://www.amazon.co.uk/dp/B0G6BKZLWJ) | Simplifies computer systems, digital logic, and modern technology for general readers. |
+| [**Bridging Minds: Signals Over Numbers**](https://www.amazon.co.uk/dp/B0GG4ZJ8DJ) | Explains data, decisions, assumptions, timing, context, and how reality is captured through numbers. |
 
-📰 SystemHacker01 Magazine
+These books are part of my wider mission to explain technology in a clear, simple, and system-level way.
 
-Website: systemhacker01.com
+---
 
-SystemHacker01 is my digital magazine and research-style writing platform focused on:
+## SystemHacker01 Magazine
 
-* Cybersecurity
-* AI systems
-* Ethical hacking
-* OSINT
-* Digital intelligence
-* System design
-* Computer systems
-* Hacker mindset
-* Real-world technology breakdowns
+**Website:** [systemhacker01.com](https://systemhacker01.com)
 
-The aim is to explain systems in a simple but deep way — from the logic of machines to the strategy behind cybersecurity.
+SystemHacker01 is my digital magazine and writing platform focused on:
 
-⸻
+- Cybersecurity  
+- AI systems  
+- Computer systems  
+- OSINT  
+- Ethical hacking  
+- Digital intelligence  
+- System design  
+- Technology breakdowns  
 
-🚀 Latest Projects
+The aim is to explain complex systems in a **simple, deep, and practical** way.
 
-📄 AI Document Intelligence System
+---
 
-A practical AI system concept designed to help businesses upload documents, extract key information, and ask questions from files using AI.
+## Public Project Focus
 
-Core features:
+### AI Document Intelligence Systems
 
-* Document upload and storage
-* AI question-answering from uploaded documents
-* RAG-based retrieval
-* Memory layer for repeated questions
-* Cost-saving logic to reduce unnecessary LLM/API usage
-* Dashboard and admin control
-* Cloud-ready architecture using storage, database, and LLM APIs
+Systems designed to help users understand large documents faster using AI.
 
-⸻
+Key concepts:
 
-🤖 Business Automation Systems
+- Document upload and processing  
+- Information extraction  
+- AI question-answering from files  
+- RAG-based retrieval  
+- Memory layer for repeated questions  
+- Cost-saving logic for LLM/API usage  
+- Dashboard and admin control  
+- Cloud-ready architecture  
 
-I build AI-powered automation ideas for businesses that want to reduce repetitive work and improve speed.
+---
 
-Focus areas include:
+### Business Automation Systems
 
-* Customer support automation
-* Internal knowledge assistants
-* Document processing
-* Report generation
-* Proposal and content automation
-* Workflow dashboards
-* AI-powered business operations
+AI-powered systems designed to reduce repetitive work and improve business speed.
 
-⸻
+Focus areas:
 
-🛡️ Cybersecurity Learning & Research
+- Customer support automation  
+- Internal knowledge assistants  
+- Document processing  
+- Report generation  
+- Proposal automation  
+- Content automation  
+- Workflow dashboards  
+- AI-powered operations  
 
-I am building my cybersecurity foundation through hands-on practice, book summaries, labs, and tool-building.
+---
 
-Current focus areas:
+### Cybersecurity Learning and Research
 
-* Linux for cybersecurity
-* Python for hacking and automation
-* OSINT investigation methods
-* Web security fundamentals
-* Network scanning and analysis
-* AI-assisted cybersecurity workflows
-* Ethical hacking and defensive security
+I am developing cybersecurity skill through practical labs, book summaries, technical notes, and tool-building.
 
-⸻
+Current focus:
 
-📖 Hacking Book Summaries
+- Linux for cybersecurity  
+- Python for automation and security  
+- OSINT investigation methods  
+- Web security fundamentals  
+- Network scanning and analysis  
+- AI-assisted cybersecurity workflows  
+- Ethical hacking and defensive security  
 
-I read and summarize cybersecurity books in a simple, practical way.
+---
 
-* Linux Basics for Hackers
-* Black Hat Python
-* Bash for Hackers
+## Cybersecurity Notes and Book Summaries
 
-⸻
+| Topic | Repository |
+|---|---|
+| Linux Basics for Hackers | [linux-basics-summary](https://github.com/0xDL01/linux-basics-summary) |
+| Black Hat Python | [black-hat-python-notes](https://github.com/0xDL01/black-hat-python-notes) |
+| Bash for Hackers | [bash-hacking-tools](https://github.com/0xDL01/bash-hacking-tools) |
 
-🧰 Tools & Scripts
+---
 
-Current and planned repositories include:
+## Technical Focus
 
-* 🔧 Bash automation scripts
-* 📂 OSINT learning tools
-* 🛡️ Cybersecurity practice labs
-* 🤖 AI document Q&A systems
-* 📊 Business automation dashboards
-* 🔐 Enigma X — experimental encryption concept
-* ⚡ AI workflow automation tools
+```text
+AI Automation        → Business systems, workflows, chatbots, document AI
+Document Intelligence → RAG, file understanding, Q&A, knowledge extraction
+Cybersecurity        → Linux, OSINT, web security, network analysis
+Software Systems     → Dashboards, APIs, databases, cloud-ready architecture
+Writing              → Books, blogs, magazine articles, technical explanations
+```
 
-⸻
+---
 
-✍️ Writing, Blogs & Content
+## Writing and Content
 
-* ✍️ Medium Articles
-* 🎥 Cyber Vlogs & Journey
-* 📰 SystemHacker01 Magazine
-* 📚 Bridging Minds Book Series
+| Platform | Link |
+|---|---|
+| Medium | [medium.com/@RichiDL01](https://medium.com/@RichiDL01) |
+| YouTube | [youtube.com/@KingDemLio](https://youtube.com/@KingDemLio) |
+| SystemHacker01 | [systemhacker01.com](https://systemhacker01.com) |
+| BeyondGains Ltd | [www.beyondgains.co.uk](https://www.beyondgains.co.uk) |
+| Bridging Minds Book | [Amazon Book Page](https://www.amazon.co.uk/dp/B0G6BKZLWJ) |
 
-I write about AI, cybersecurity, systems, business, and the process of building real skill from the ground up.
+---
 
-⸻
+## Languages
 
-🌍 Languages
+| Language | Status |
+|---|---|
+| English | Professional |
+| French | Learning / Developing |
 
-* English
-* French
+---
 
-⸻
+## Contact
 
-📫 Connect
+- **Email:** `1inMillionRichi@proton.me`
+- **Company:** [www.beyondgains.co.uk](https://www.beyondgains.co.uk)
+- **Magazine:** [systemhacker01.com](https://systemhacker01.com)
+- **Open to:** AI automation projects, cybersecurity opportunities, collaborations, and UK sponsored roles
 
-* 📧 Personal: 1inMillionRichi@proton.me
-* 🌐 Company: www.beyondgains.co.uk
-* 📰 Magazine: systemhacker01.com
-* 💼 Open for AI automation projects, cybersecurity opportunities, and UK sponsored roles
+---
 
-⸻
+<div align="center">
 
-“Technology becomes power only when you understand the system behind it.”
+### Core Philosophy
+
+> **Technology becomes powerful only when you understand the system behind it.**
+
+**Always learning. Always building. Always executing.**
+
+</div>
