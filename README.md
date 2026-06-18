@@ -179,7 +179,7 @@ Writing              → Books, blogs, magazine articles, technical explanations
 | Platform | Link |
 |---|---|
 | Medium | [medium.com/@RichiDL01](https://medium.com/@Richi0xdl01) |
-| YouTube | [youtube.com/@KingDemLio](https://youtube.com/@KingDemLio) |
+| YouTube | [youtube.com/@KingDemLio](https://youtube.com/@BeyondGains-n1i) |
 | SystemHacker01 | [systemhacker01.com](https://systemhacker01.com) |
 | BeyondGains Ltd | [www.beyondgains.co.uk](https://www.beyondgains.co.uk) |
 | Bridging Minds Book | [Amazon Book Page](https://www.amazon.co.uk/dp/B0G6BKZLWJ) |
