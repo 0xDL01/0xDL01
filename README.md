@@ -178,7 +178,7 @@ Writing              → Books, blogs, magazine articles, technical explanations
 
 | Platform | Link |
 |---|---|
-| Medium | [medium.com/@RichiDL01](https://medium.com/@RichiDL01) |
+| Medium | [medium.com/@RichiDL01](https://medium.com/@Richi0xdl01) |
 | YouTube | [youtube.com/@KingDemLio](https://youtube.com/@KingDemLio) |
 | SystemHacker01 | [systemhacker01.com](https://systemhacker01.com) |
 | BeyondGains Ltd | [www.beyondgains.co.uk](https://www.beyondgains.co.uk) |
